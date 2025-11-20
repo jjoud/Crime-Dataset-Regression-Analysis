@@ -1,5 +1,4 @@
-# Crime-Dataset-Regression-Analysis
-# 📊 Crime Dataset Regression Analysis
+# Crime Dataset Regression Analysis
 
 ## 🔹 Project Goal
 Analyze community crime data in the United States and build regression models to predict violent crime rates per 100,000 population, while identifying the most influential demographic and social factors.
